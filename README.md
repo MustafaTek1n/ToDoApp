@@ -17,7 +17,7 @@ Quick Search: Even with dozens of tasks, you can find exactly what you're lookin
 🛠 Technical Deep Dive
 I focused on utilizing the Java Standard Library efficiently to ensure the app is lightweight yet powerful:
 
-Java 8+ Time API: Precise date management using the YYYY-MM-DD format for a disciplined schedule.
+Java Time API: Precise date management using the YYYY-MM-DD format for a disciplined schedule.
 
 Object Streams: Direct object-to-disk persistence (Serialization).
 
